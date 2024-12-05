@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(252, 248, 248);
+    color: rgb(40, 46, 40);
+    font-size: medium;
+    
+}
+
+div{
+    background-color: rgb(224, 211, 211);
+    margin: 45px;
+    padding: 5px;
+}
+
+h5{
+    color: rgb(226, 166, 123);
+}
